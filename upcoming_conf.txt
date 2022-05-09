@@ -1,0 +1,7 @@
+1,38th IEEE International Conference on Data Engineering (ICDE 2022),9-12 May 2022,virtual,150$
+2,44th International Conference on Software Engineering (ICSE 2022),21-29 May 2022,Pittsburgh USA,200$
+3,43rd IEEE Symposium on Security and Privacy (SP 2022),22-26 May 2022,San Francisco USA,250$
+4,42nd IEEE International Conference on Distributed Computing Systems (ICDCS 2022),10–13 July 2022,Bologna Italy,220$  
+5,IEEE International Conference on Quantum Computing and Engineering (QCE 2022),19–23 September 2022,Bloomfield USA,270$
+6,IEEE Future Networks 2022,12–14 October 2022,Montreal Canada,300$
+
